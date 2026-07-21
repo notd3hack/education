@@ -1,10 +1,18 @@
 <p align="right">
 
-🇦🇿 **Azərbaycan dili:** [README.az.md](README.az.md)
+🇬🇧 **English:** [README.md](README.md)
 
 </p>
 
-#  0Trust - Advanced Cybersecurity Bootcamp
+
+
+<p align="right">
+
+🇬🇧 **English:** [README.md](README.md)
+
+</p>
+
+# 0Trust - Advanced Cybersecurity Bootcamp
 
 <div align="center">
 
@@ -33,13 +41,12 @@
 
 # 0Trust - Advanced Cybersecurity Bootcamp
 
-### **Defend • Detect • Respond • Evolve**
 
-Modern enterprise cybersecurity training covering Offensive Security, Detection Engineering, Blue Team Operations, Windows Infrastructure, Web Security, Linux, Active Directory and Zero Trust.
+Müasir müəssisələr üçün hazırlanmış kibertəhlükəsizlik təlim proqramı. Offensive Security, Detection Engineering, Blue Team əməliyyatları, Windows infrastrukturu, Web Security, Linux, Active Directory və Zero Trust mövzularını əhatə edir.
 
 </div>
 
-## 📖 Course Overview
+## 📖 Kurs Haqqında Ümumi Baxış
 
 <p align="center">
     <img src="syllabus.png" width="90%">
@@ -47,36 +54,36 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 
 ---
 
-# ⚠️ Public Course Preview
+# ⚠️ İctimai Kurs Ön Baxışı
 
 > [!WARNING]
 >
-> This repository is a **public preview** of the **0Trust - Advanced Cybersecurity Bootcamp** and **does not include the complete curriculum**.
+> Bu repository **0Trust - Advanced Cybersecurity Bootcamp** proqramının **ictimai ön baxış versiyasıdır** və **tam tədris proqramını əks etdirmir**.
 >
-> The public syllabus covers only the major learning blocks. Practical laboratories, enterprise attack simulations, detection engineering projects, instructor methodologies, real-world case studies, assessments, and capstone projects are intentionally **not published**.
+> Burada yalnız əsas tədris blokları təqdim olunur. Praktiki laboratoriyalar, müəssisə səviyyəli hücum ssenariləri, Detection Engineering layihələri, müəllim metodologiyası, real hadisə araşdırmaları, qiymətləndirmələr və yekun layihələr qəsdən **paylaşılmamışdır**.
 >
-> ### 🔒 What's intentionally omitted
+> ### 🔒 Qəsdən paylaşılmayan məzmun
 >
-> - Hands-on Labs
-> - Enterprise Attack Scenarios
-> - Detection Engineering Projects
+> - Praktiki laboratoriyalar
+> - Müəssisə hücum ssenariləri
+> - Detection Engineering layihələri
 > - Active Directory Attack Chains
-> - Threat Hunting Exercises
-> - Malware Analysis Labs
-> - Instructor Walkthroughs
-> - Student Assessments
-> - Capstone Projects
-> - Instructor-only Material
+> - Threat Hunting məşqləri
+> - Malware Analysis laboratoriyaları
+> - Müəllim izahlı walkthrough-ları
+> - Tələbə qiymətləndirmələri
+> - Capstone layihələri
+> - Yalnız müəllim üçün nəzərdə tutulmuş materiallar
 >
-> **Think of this repository as the table of contents—not the book.**
+> **Bu repository-ni kitabın özü deyil, yalnız məzmun cədvəli kimi qiymətləndirin.**
 
 ---
 
-# 📚 Course Syllabus
+# 📚 Tədris Proqramı
 
-## 0. Information Security Block (Theoretical)
+## 0. İnformasiya Təhlükəsizliyi Bloku
 
-### Foundations
+### Fundamentallar
 
 - CIA Triad
 - Encryption, Decryption & Hashing
@@ -84,7 +91,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 - Cybersecurity Frameworks
 - Authentication (2FA / MFA)
 
-### Security Concepts
+### Təhlükəsizlik konseptləri
 
 - Red Team / Blue Team / Purple Team
 - Threat Intelligence & OSINT
@@ -94,9 +101,9 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 
 ---
 
-## 1. Networking Block
+## 1. Kompüter şəbəkəsi Bloku
 
-### Networking Fundamentals
+### Şəbəkə Fundamentalları
 
 - Network Protocols & Standards
 - OSI Model
@@ -107,7 +114,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 - DHCP
 - NAT
 
-### Network Security
+### Şəbəkə Təhlükəsizliyi
 
 - Common Network Attacks
 - Network Security
@@ -122,7 +129,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 
 ---
 
-## 2. GNU/Linux OS & Web Application Testing
+## 2. GNU/Linux ƏS & Veb Aplikasiya Testi
 
 ### GNU/Linux
 
@@ -133,7 +140,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 - Linux Hardening
 - Linux Pentesting
 
-### Web Application Security
+### Veb Aplikasiya Təhlükəsizliyi
 
 - Web Application Testing
 - OWASP Top 10
@@ -142,7 +149,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 
 ---
 
-## 3. Endpoint Security & Basic Exploit Development
+## 3. Kompüter təhlükəsizliyi və zərərli yazılımlara giriş
 
 ### Windows
 
@@ -152,7 +159,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 - CMD
 - Windows Administration
 
-### Offensive Operations
+### Hücum xarakterli əməliyyatlar
 
 - Targeting
 - Reconnaissance
@@ -162,7 +169,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 
 ---
 
-## 4. Windows Based Infrastructure
+## 4. Windows ƏS Bazalı İnfrastruktur
 
 ### Active Directory
 
@@ -186,15 +193,15 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 
 ---
 
-## 5. Cybersecurity Engineering & Zero Trust
+## 5. Kibertəhlükəsizlik Mühəndisliyi & Sıfır Güvən (0Trust)
 
-### Security Engineering
+### Mühəndislik
 
 - Security Engineering
 - SOC Fundamentals
 - Detection Engineering
 
-### Blue Team Operations
+### Müdafiə xarakterli əməliyyatlar
 
 - DFIR
 - Malware Analysis
@@ -208,7 +215,7 @@ Modern enterprise cybersecurity training covering Offensive Security, Detection 
 
 ---
 
-# 🧰 Technologies
+# 🧰 Texnologiyalar
 
 | Category | Technologies |
 |-----------|--------------|
@@ -240,16 +247,18 @@ After successfully completing this bootcamp, students will be able to:
 
 ---
 
-# 👥 Recommended For
+# 👥 Kimlər üçündür
 
-- Beginners entering Cybersecurity
-- SOC Analysts
-- Security Engineers
-- System Administrators
-- IT Professionals
+- Kibertəhlükəsizlik sahəsinə giriş etmək istəyənlər üçün
+- SOC Analysts sahəsindəki kiçik mütəxəssislər üçün
+- Kibertəhlükəsizlik mühəndisi olmaq istəyənlər üçün
+- Kiçik Sistem Administratorları üçün
+- IT Sahəsində çalışanlar üçün
 - Junior Penetration Testers
-- Career Changers
+- Karierasını zənginləşdirmək istəyənlər üçün
 
+
+**Bu sahədəki sözlərin 70%-nin tərcüməsi olmadığına görə olduğu kimi qalmalıdır.**
 ---
 <p align="center">
     <img src="whatyoucanget.png" width="100%">
