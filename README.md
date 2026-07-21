@@ -246,7 +246,7 @@ After successfully completing this bootcamp, students will be able to:
 
 ---
 <p align="center">
-    <img src="whatyoucanget.png" width="90%">
+    <img src="whatyoucanget.png" width="100%">
 </p>
 
 
