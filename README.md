@@ -1,4 +1,4 @@
-# 🛡️ 0Trust - Advanced Cybersecurity Bootcamp
+#  0Trust - Advanced Cybersecurity Bootcamp
 
 <div align="center">
 
@@ -32,6 +32,12 @@
 Modern enterprise cybersecurity training covering Offensive Security, Detection Engineering, Blue Team Operations, Windows Infrastructure, Web Security, Linux, Active Directory and Zero Trust.
 
 </div>
+
+## 📖 Course Overview
+
+<p align="center">
+    <img src="syllabus.png" width="90%">
+</p>
 
 ---
 
@@ -239,6 +245,10 @@ After successfully completing this bootcamp, students will be able to:
 - Career Changers
 
 ---
+<p align="center">
+    <img src="whatyoucanget.png" width="90%">
+</p>
+
 
 # ⚖️ Ethical Use
 
